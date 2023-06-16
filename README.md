@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yin Hu.
 - 🙋‍♀️💻 I’m currently looking for a software engineer summer intern in 2024 (open to remote / all working locations in U.S.).
 - 👩‍ I’m a master student in Computer Science in University of San Francisco, and I will graduate in May 2025.
-- 📫 My email: yhu76@usfca.edu | My LinkedIn: [https://linkedin.com/in/yin-hu-9878711b0](https://linkedin.com/in/yin-hu-9878711b0) 
+- 📫 My email: yhu76@dons.usfca.edu | My LinkedIn: [https://linkedin.com/in/yin-hu-9878711b0](https://linkedin.com/in/yin-hu-9878711b0) 
 - 📌 Here is my Leetcode progress:
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/geniuseva?theme=unicorn&font=Baloo%202&ext=heatmap)
