@@ -4,5 +4,4 @@
 
 - 👋 Hi, I’m Yin Hu.
 - 👩‍ I’m a master student in Computer Science in University of San Francisco, and I will graduate in May 2025.
-- 🙋‍♀️💻 I’m currently looking for a software engineer summer intern in 2024 (open to remote / all working locations in U.S.).
-- 📫 My email: yhu76@dons.usfca.edu | My LinkedIn: [https://linkedin.com/in/yin-hu-9878711b0](https://linkedin.com/in/yin-hu-9878711b0) 
+- 📫 My email: yhu76@dons.usfca.edu | My LinkedIn: [https://linkedin.com/in/yin-hu-9878711b0](https://linkedin.com/in/yin-hu-9878711b0) | My Personal Website: [https://geniuseva.github.io](https://geniuseva.github.io)
