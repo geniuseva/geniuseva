@@ -1,4 +1,4 @@
-# Yin Hu (Eva)
+# Yin Hu
 
 ![Me](https://github.com/geniuseva/geniuseva/blob/853fac80b1ff74a645ccad1f78c854280addc2a5/profile_pic.JPG)
 
